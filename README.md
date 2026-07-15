@@ -147,8 +147,8 @@ Voice Assistant Support
 
 
 ### History Page
-![ History Page](https://github.com/user-attachments/assets/01cba94a-f838-4874-9bfb-d7c50446a03)
 
+![History Page](https://github.com/user-attachments/assets/794c5358-fe32-487a-8bfd-7848ffc650ab)
 
 ---
 
