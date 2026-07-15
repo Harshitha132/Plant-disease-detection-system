@@ -127,7 +127,7 @@ Voice Assistant Support
 ### Home Page
 ![Home Page](https://github.com/user-attachments/assets/369b3d60-8f11-4af0-b11c-1d6d78013c87)
 
-![Home Page]([https://github.com/user-attachments/assets/369b3d60-8f11-4af0-b11c-1d6d78013c87](https://github.com/user-attachments/assets/702a7900-0fe6-40c7-b65a-b191865ad61b))
+![Home Page](https://github.com/user-attachments/assets/702a7900-0fe6-40c7-b65a-b191865ad61b)
 ### Upload Page
 
 ![Upload Page](https://github.com/user-attachments/assets/a70ba6ba-9af1-431f-a4cd-7f4d4c16415f)
